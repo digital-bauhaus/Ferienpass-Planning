@@ -4,7 +4,10 @@ Overview of requirements, architecture, and tasks for digitalizing ferienpass-we
 ![Requirements collected via Arch42](arch42.JPG)
 
 ## Project Resources
-[Motivation, Grading, ...](/slides/1_motivation.pdf)
+
+Use [our Slack-Channel](https://digital-bauhaus.slack.com) to collaborate with your peers or with [Prof. Dr. Nobert Siegmund](https://twitter.com/Norbsen) / [Jonas Hecht](https://twitter.com/jonashackt)
+
+Slides about [Motivation, Grading, ...](/slides/1_motivation.pdf)
 
 ## How to Find References for the Presentation, Implementation, and Tutorial
 - Google: Topic + Tutorial / Guide / Video / Intro / Example
