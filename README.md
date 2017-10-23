@@ -3,4 +3,13 @@ Overview of requirements, architecture, and tasks for digitalizing ferienpass-we
 
 ![Requirements collected via Arch42](arch42.JPG)
 
-Collaboration: Slack [digital-bauhaus.slack.com](digital-bauhaus.slack.com)
+## Project Resources
+[Motivation, Grading, ...](/slides/1_motivation.pdf)
+
+## How to Find References for the Presentation, Implementation, and Tutorial
+- Google: Topic + Tutorial / Guide / Video / Intro / Example
+- Stackoverflow: In case of problems
+- Youtube: Topic + 15min Introduction / Tutorial
+- Developer blogs
+- Github repos
+
