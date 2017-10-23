@@ -1,4 +1,4 @@
 # Ferienpass-Planning
 Overview of requirements, architecture, and tasks for digitalizing ferienpass-weimar.de
 
-![alt text][arch42]
+![Requirements collected via Arch42](arch42.jpg)
