@@ -18,3 +18,29 @@ Slides about [Motivation, Grading, ...](/slides/1_motivation.pdf)
 - Developer blogs
 - Github repos
 
+## Concrete Tasks and Time Schedule (in progress... changes may apply)
+
+### MicroService 1: Anmeldung
+- Philipp	R. Frontend
+- Jiani	Q. Frontend
+- Lucas	H. REST
+- Anny	H. Spring Boot
+- David	F. Datenbank
+
+### MicroService 2: Administration
+- Max	V. Frontend
+- Fabienne	H. Frontend
+- Jonas	L. REST
+- Josef	R. Spring Boot
+- Artur	S. Datenbank
+
+### Continuous Integration & Infrastructure
+- Jonas	D. TravisCI
+- Viktor	B. Product Owner
+- Jana	P. Nightwatch
+- Benjamin	B. Logging
+- Leon	H. Ansible
+- Michael	S. Docker
+- Maximilian	M. SonarQube
+- Lisa	G. Maven
+- Marcel	H. JUnit
