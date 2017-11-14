@@ -20,6 +20,8 @@ Slides about [Motivation, Grading, ...](/slides/1_motivation.pdf)
 
 ## Concrete Tasks and Time Schedule (in progress... changes may apply)
 
+![Themeneinteilung](Einteilung.pdf)
+
 ### MicroService 1: Anmeldung
 - Philipp	R. Frontend
 - Jiani	Q. Frontend
