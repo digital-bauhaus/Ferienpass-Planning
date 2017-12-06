@@ -1,6 +1,8 @@
 # Ferienpass-Planning
 Overview of requirements, architecture, and tasks for digitalizing ferienpass-weimar.de
 
+Note: We will have our first milestone meeting at room 003 at the Berkaer Straße 1.
+
 ![Requirements collected via Arch42](arch42.JPG)
 
 ## Project Resources
