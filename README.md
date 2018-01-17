@@ -77,9 +77,9 @@ Slides about [Motivation, Grading, ...](/slides/1_motivation.pdf)
 - **TravisCI** Jonas	D.
   - ~~**08.12.2017:** Theory -> What is continuous integration? What is Travis CI?~~
   - **19.01.2017:** Tutorial: Show how to set up Travis CI support for the two MicroServices and present some results of the development process using Travis CI.
-- ~~**SonarQube** Maximilian	M.
-  - **08.12.2017:** Theory -> What is SonarQube? Why is it and other approaches, such as Coveralls important? 
-  - **19.01.2017:** Tutorial: Show how to set up SonarCloud and demonstrate analyses based on the two MicroServices.~~
+- ~~**SonarQube** Maximilian	M.~~
+  - ~~**08.12.2017:** Theory -> What is SonarQube? Why is it and other approaches, such as Coveralls important?~~
+  - ~~**19.01.2017:** Tutorial: Show how to set up SonarCloud and demonstrate analyses based on the two MicroServices.~~
 - **JUnit** Marcel	H.
   - **19.01.2017:** Theory -> What is JUnit? What features are new to version 5? What are good practices?
   - **05.02.2017:** Tutorial: Show how to create Unit Tests and what tests you and others have been created for the MicroServices.
