@@ -54,7 +54,7 @@ Slides about [Motivation, Grading, ...](/slides/1_motivation.pdf)
   - **05.02.2017:** Demonstration: How does it work in the MicroService? What is the relation to the database and frontend?
 
 - **SpringBoot** Josef	R. 
-  - ~~ **08.12.2017:** Theory -> What are SpringBoot metrics? What can they show us and why are they important? ~~
+  - ~~**08.12.2017:** Theory -> What are SpringBoot metrics? What can they show us and why are they important?~~
   - **05.02.2017:** Demonstration: How to set up SpringBoot Metrics in the MicroService? Show how to get metrics running for the MicroService.
 
 - **Datenbank** Artur	S. 
