@@ -32,9 +32,9 @@ Slides about [Motivation, Grading, ...](/slides/1_motivation.pdf)
   - **16.02.2018:** Jiani: Node.js + NPM
   - **23.02.2018:** Philipp: ECMAScript + Web pack? 
 
-- ~~**REST** Lucas	H.
-  - **19.01.2018:** Theory -> SpringBoot with REST: How to realize REST Services? What does @RESTController do? How does it work? Given an introduction.
-  - **05.02.2018:** Tutorial: What do you have to do to get things started? Make a simple but good tutorial for your collegues.~~
+- ~~**REST** Lucas	H.~~
+  - ~~**19.01.2018:** Theory -> SpringBoot with REST: How to realize REST Services? What does @RESTController do? How does it work? Given an introduction.~~
+  - ~~**05.02.2018:** Tutorial: What do you have to do to get things started? Make a simple but good tutorial for your collegues.~~
   
 - **SpringBoot** Anny	H. 
   - ~~**08.12.2017:** Theory -> Give an overview about SpringBoot. Why is it important? What is Auto Conf? What are the starter POMs (Maven Integration)? What means convention over configuration?~~
